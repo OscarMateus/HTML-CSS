@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: blue;
+    background-color: black;
+}
+h1#principal{
+    background-color: crimson;
+    color: rgb(253, 253, 253);
+    text-align: center;
+}
+
+h2{
+    color: rgb(121, 30, 30);
+}
+
+p{
+    color: blueviolet;
+}
+
+.basico{
+    background-color: brown;
+    color: chartreuse;
+}
+.intermediario{
+    background-color: aquamarine;
+    color: cornflowerblue;
+}
+.avancado{
+    background-color: darkcyan;
+    color: darkmagenta;
+}
+.paragrafo{
+    color: darkorchid;
+    text-align: left;
+    text-indent: 25px;
+}

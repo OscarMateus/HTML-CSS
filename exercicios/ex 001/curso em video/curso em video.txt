@@ -1,0 +1,77 @@
+codigo multibyte=UTF-8
+
+MB mega byte (memoria) =/ Mb mega bite (transmissao)
+
+
+
+
+TLD = COM(top level tomain)  GTLD= INFO/GOV/EDU(generico\0   CCTLD= BR/CL/AR/US(country code)
+
+URL= geral 
+
+DOMINIO= HOTMAIL/GMAIL/GIHUB
+
+
+
+
+HTML= conteudo= texto/imagem/videos/tabelas
+
+CSS= DESIGN= croes/sombras/tamanhos/posicionamento 
+
+JS= INTERAÇÕES=menus/animações/popups/validações
+
+
+
+FRONT END = cliente 
+BACK END = servidor
+
+hr = linha horizontal
+h1 =titulo
+img=imagem 
+p=paragrafo
+br=quebra de linha
+
+emoji pedia = conseguir codigo de emojis = &#x + cod
+
+NEGRITO =strong/b
+
+ITALICO= em /i
+
+MARK=marcação de texto
+
+SMALL=
+
+SUP=a cima elevado a 2 
+
+SUB=a baixo como H2o
+
+INS=inserido/sublinhado
+
+DEL=excluido
+
+PRE= manter o codigo como escrito
+
+CODE= fonte espaçada
+
+Q= citações
+
+BLOCKQUOTE= citação deslocada
+
+ABBR= abreviações
+
+BDO= inverção
+
+OL= order list
+
+UL= unorder list
+
+IL= intem lista
+
+DT=definitio type
+
+DD=definition description
+
+REL(extarnel)= relativ
+
+TARGET(_blank)= extarnel
+CTRL+SHIFT+P= procurar tag
